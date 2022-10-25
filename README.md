@@ -10,4 +10,4 @@
 
 ## 🔗 Link da Página
 
-- [Glassmorphism](https://abreu-marcelo.github.io/Mundo-Invertido/)
+- [Glassmorphism](https://abreu-marcelo.github.io/WEBSITE-GLASS/)
