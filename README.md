@@ -10,4 +10,4 @@
 
 ## 🔗 Link da Página
 
-- [Glassmorphism](https://abreu-marcelo.github.io/WEBSITE-GLASS/)
+- [Glassmorphism](https://marcelo-abreeu.github.io/WEBSITE-GLASS/)
